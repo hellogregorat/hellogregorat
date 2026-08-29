@@ -68,14 +68,8 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hellogregorat&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hellogregorat&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
 
----
 
 <p align="center">
   <i>Wubba Lubba Dub Dub 🧪</i>
