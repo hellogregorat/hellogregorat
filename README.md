@@ -50,7 +50,7 @@
 
 ---
 
-### 🚀 Текущие проекты
+### 🚀 Прикольные пет проекты
 
 - **[NEON-PANG](https://github.com/hellogregorat/NEON-PANG)**  
   Веб-приложение в тематике корейского PC bang. Сделано на **Next.js**.
