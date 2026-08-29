@@ -72,6 +72,9 @@
 Многостраничный сайт на чистом HTML, CSS и JavaScript.
 Полностью готовый визуал без бэкенда — учебный проект на отработку вёрстки и чистого JS.
 
+**[Manhattan0estates](https://github.com/hellogregorat/manhattan-estates)**
+
+
 
 ---
 
